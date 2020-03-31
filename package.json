@@ -12,7 +12,7 @@
     "@emotion/core": "^10.0.27",
     "@mdx-js/react": "^1.5.3",
     "@theme-ui/components": "^0.2.50",
-    "next": "9.1.7",
+    "next": "9.3.2",
     "react": "16.12.0",
     "react-dom": "16.12.0",
     "theme-ui": "^0.2.52"
